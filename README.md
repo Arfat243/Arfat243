@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Arfat243
-- 👀 I’m interested in Data scientist
-- 🌱 I’m currently learning machine learning,python,web developement,data scientist
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arfatshaikh243@gmail.com
 
